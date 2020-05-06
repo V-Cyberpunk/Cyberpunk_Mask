@@ -34,7 +34,7 @@ I'm V, a Cyberpunk, and I have the only possible solution for a corona mask: a f
 
 ![](media/schematic.png)
 
-## Images and Video
+## Images
 
 ![](media/IMG_0251.jpg)
 ![](media/IMG_0252.jpg)
