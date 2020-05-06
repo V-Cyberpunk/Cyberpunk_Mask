@@ -30,6 +30,10 @@ I'm V, a Cyberpunk, and I have the only possible solution for a corona mask: a f
 - Arduino IDE
 - Adafruit NeoPixel library
 
+## Schematic
+
+![](media/schematic.png)
+
 ## Images and Video
 
 ![](media/IMG_0251.jpg)
