@@ -19,8 +19,10 @@ He inspired to develop and build this.
 - some wires
 - two 10k pull-up resistors
 - 510 ohms resistor
-- WS2812B LED strip
+- WS2812B LED strip (I used two 7LED strips in serial connection)
 - mask (I bought black masks on ebay)
+- hook-and-loop-tape (for taking off the led stripes, if you have to wash your mask)
+- washable fabric glue for glueing the tape on the mask
 
 ## Software
 
