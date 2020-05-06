@@ -31,3 +31,10 @@ He inspired to develop and build this.
 
 - Arduino IDE
 - Adafruit NeoPixel library
+
+## Images and Video
+
+![](media/IMG_0251.jpg)
+![](media/IMG_0252.jpg)
+![](media/IMG_0253.jpg)
+![](media/IMG_0254.jpg)
