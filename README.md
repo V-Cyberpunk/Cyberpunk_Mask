@@ -4,6 +4,10 @@ In Times of SARS-CoV-2 you will need a fancy mask for your runs in Night City!
 ## Introduction
 I'm V, a Cyberpunk, and I have the only possible solution for a corona mask: a fancy cyberpunk mask!
 
+## Hints
+
+If the program stops at "all LED on", change the batteries. 
+
 ## Material
 
 - Case for electronics
