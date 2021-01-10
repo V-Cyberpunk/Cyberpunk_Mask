@@ -5,6 +5,8 @@ And here is version 2!
 ## Introduction
 I'm V, a Cyberpunk, and I have the only possible solution for a corona mask: a fancy cyberpunk mask!
 
+Version 2 is compact, with LiPo, charger and measures the LiPo charging level at start up. (green=good, yellow=you should charge, red=you must charge)
+
 ## Material
 
 - 1S 3,7V 650mAh LiPo
