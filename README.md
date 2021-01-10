@@ -40,7 +40,4 @@ Version 2 is compact, with LiPo, charger and measures the LiPo charging level at
 
 ## Images
 
-![](media/IMG_0251.jpg)
-![](media/IMG_0252.jpg)
-![](media/IMG_0253.jpg)
-![](media/IMG_0254.jpg)
+![](media/img.jpg)
